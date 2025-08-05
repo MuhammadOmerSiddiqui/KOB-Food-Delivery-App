@@ -1,0 +1,14 @@
+1,Prawn Karahi,2300
+2,Beef Champ,2800
+3,Chicken White Karahi(Full),1800
+4,Chicken White Karahi(Half),900
+5,Chicken BBQ Handi(Full),2100
+6,Chicken BBQ handi(Half),1100
+7,Chicken Tikka(Chest),660
+8,Chicken Tikka(Leg),600
+9,Reshmi Kebab,400
+10,Zinger Burger,410
+11,Raita & Salaad,190
+12,Naan,40
+13,Regular Water(1500ml),150
+14,Soft Drink,80

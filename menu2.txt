@@ -1,0 +1,10 @@
+1,Big Mac,650
+2,Hot N' Crispy,490
+3,McChicken,300
+4,Chicken Mac,300
+5,Crispy Chicken(12 pcs),850
+6,Chipotle Wrap,550
+7,Beef Crisp,690
+8,Soft Drink(345ml),100
+9,Regular Water(1500ml),160
+10,Dips,60

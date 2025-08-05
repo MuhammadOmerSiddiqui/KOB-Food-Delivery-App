@@ -1,0 +1,15 @@
+1, Chicken Steak, 1000
+2, Pepper Steak, 1500
+3, Fried Rice with Chicken Manchurian, 1000
+4, Fried Rice with Chow Mein, 1500
+5, Fried Rice with Chicken Shashlik, 1500
+6, Fried Rice with Beef Chili Dry, 2000
+7, Fried Rice with BBQ special flavor, 2500
+8, Chicken Corn Soup, 300
+9, Chicken Corn Soup family pack, 1500
+10, Hot and Sour Soup, 350
+11, Hot and Sour Soup family pack, 1800
+12, Hot and Grilled Fish, 2500
+13, Lobster Thermidor, 3500 
+14, Lobster Soup, 600
+15, Lobster Soup family pack, 3000

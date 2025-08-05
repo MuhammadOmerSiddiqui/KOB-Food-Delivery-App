@@ -1,0 +1,18 @@
+1,Large Ranch Pizza,2000
+2,Large Crown Pizza,2500
+3,Large Fajeeta Pizza,2000
+4,Large Tikka Pizza,2000
+5,Large Malai Boti,2000
+6,Large Chicken Pepproni Pizza,2200
+7,Medium Ranch Pizza,1500
+8,Medium Crown Pizza,2000
+9,Medium Fajeeta Pizza,1500
+10,Medium Tikka Pizza,1500
+11,Medium Malai Boti,1500
+12,Medium Chicken Pepproni Pizza,1700
+13,Small Ranch Pizza,1000
+14,Small Crown Pizza,1300
+15,Small Fajeeta Pizza,1000
+16,Small Tikka Pizza,1000
+17,Small Malai Boti,1000
+18,Small Chicken Pepproni Pizza,1200

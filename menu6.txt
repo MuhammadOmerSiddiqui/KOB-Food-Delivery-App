@@ -1,0 +1,16 @@
+1, Doppler Burger, 850
+2, Old School Burger, 800
+3, Big Bang Burger, 750
+4, Firehouse Burger, 800
+5, Dynamite Burger, 750
+6, Smooky Burger, 800
+7, Zingster Burger, 600
+8, All American Burger, 850
+9, OG SMASH Burger, 1000
+10, Chilli Tomata Burger, 1200
+11, Soft Drink 1.5L, 150
+12, Mineral Water 1.5L, 100
+13, Salad, 70
+14, Animal Fries, 450
+15, Crunchy Fries, 500
+16, Plain Fries with Burger Lab's sauce, 300

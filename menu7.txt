@@ -1,0 +1,10 @@
+1,Chicken Karahi,1995
+2,Chicken Handi,2000
+3,Mutton karahi,4000
+4,Dal Makhni,500
+5,Naan,70
+6,Chicken Platter,5000
+7,Chicken Gola Kabab,1200
+8,Soft Drink(345ml),100
+9,Regular Water(1500ml),150
+10,Raita and Salad,250

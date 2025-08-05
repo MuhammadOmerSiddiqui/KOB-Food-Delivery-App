@@ -1,0 +1,9 @@
+1, Chicken Biryani, 250
+2, Beef Biryani, 300
+3, Farhan's Special Biryani(Chicken), 350
+4, Beef Pulao, 300
+5, Chicken Pulao, 250
+6, Salad, 70
+7, Raita, 70
+8, Mineral Water 1.5L, 100
+9, Soft Drink 1.5L, 150

@@ -1,0 +1,8 @@
+1,Student Special Biryani,1200
+2,Hyderabadi Pulao,750
+3,Raita,70
+4,Drinks,70
+5,Salad,100
+6,Super Beef Biryani,1500
+7,Mutton Beef Pulao,1500
+8,Mineral Water,100

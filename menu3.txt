@@ -1,0 +1,11 @@
+1,Sriracha Wings,410
+2,Peri Peri Wings,410
+3,Garlic Bread,280
+4,Pizza Roll,400
+5,20 Inches Pizza Slice,550
+6,Fajita Pizza (Large),1660
+7,Chicken Supreme (Large),1700
+8,Bar BQ Pizza (Large),1500
+9,Fajita Pizza (Medium),1020
+10,Chicken Supreme Pizza (Medium),1000
+11,Drinks,80

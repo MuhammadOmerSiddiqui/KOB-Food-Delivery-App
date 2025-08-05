@@ -1,0 +1,8 @@
+1,Cheese Garlic Fries,350
+2,Beef Burger,500
+3,Fajita Fried Tikka,650
+4,Afghani Mutton Karahi,1500
+5,Milli Julli Tarkari,800
+6,Blueberry Cheese Cake,700
+7,Soft Serve Ice Cream,500
+8,Mutton Kunna Paya,1000

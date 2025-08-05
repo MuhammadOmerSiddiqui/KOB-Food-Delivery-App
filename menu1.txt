@@ -1,0 +1,10 @@
+1,Krunch Burger,310
+2,Krunch Combo,590
+3,Hot Wings Bucket,670
+4,Chicken & Chips,620
+5,Classic Zinger,400
+6,Beef Burger,350
+7,Zinger Shawarma,290
+8,Soft Drink(345ml),100
+9,Regular Water(1500ml),160
+10,Dips,60

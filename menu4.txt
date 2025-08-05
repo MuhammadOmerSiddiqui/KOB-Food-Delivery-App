@@ -1,0 +1,9 @@
+1,Royal Crown Pizza,2500
+2,Fajita Pizza,2000
+3,Hot Ranch Pizza,1500
+4,Tikka Pizza,1700
+5,Afghani Boti Pizza,1200
+6,Malai Boti Pizza,1600
+7,Seekh Kabab Pizza,1800
+8,Chicken Pepproni Pizza,1900
+9,Lasagna,700
