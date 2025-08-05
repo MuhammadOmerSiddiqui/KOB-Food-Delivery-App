@@ -2,13 +2,13 @@
 
 Welcome to the GitHub repository of **KOB Food Delivery App**, a command-line food ordering system built using the C programming language. This project was created during the **Fall 2024 semester** for my **Programming Fundamentals** course at FAST University.
 
----
+
 
 ## 📌 Description
 
 KOB Food Delivery App simulates a basic yet complete food delivery experience within a terminal interface. Users can register, log in, browse available restaurants, order food, and receive confirmation — all from a command-line environment.
 
----
+
 
 ## 🚀 Features
 
@@ -46,7 +46,7 @@ KOB Food Delivery App simulates a basic yet complete food delivery experience wi
   * Summary printed on-screen
   * Confirmation sent via email
 
----
+
 
 ## 📁 Folder Structure
 
@@ -64,7 +64,7 @@ KOB-Food-Delivery/
 └── README.md               # Project documentation (this file)
 ```
 
----
+
 
 ## 🧠 What I Learned
 
@@ -75,7 +75,7 @@ KOB-Food-Delivery/
 * Simulating real-world app behavior through the command line
 * Using Python for sending automated emails
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -83,13 +83,10 @@ KOB-Food-Delivery/
 * **Tools:** GCC, VS Code
 * **Others:** Python for email integration
 
----
 
-## 📷 Demo
 
-If you're viewing this on LinkedIn or GitHub, check out the attached **screen recording** showing how the system works from start to finish!
 
----
+
 
 ## ✅ How to Run
 
@@ -110,18 +107,18 @@ If you're viewing this on LinkedIn or GitHub, check out the attached **screen re
    ```
 4. Make sure Python is installed if you want to use email notifications.
 
----
+
 
 ## 📜 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and share!
 
----
+
 
 ## 💬 Feedback
 
 If you try out the app or go through the code, I’d love to hear your thoughts. Feel free to create issues or submit pull requests. ⭐
 
----
+
 
 Made with ❤️ by Muhammad Omer Siddiqui
