@@ -48,20 +48,7 @@ KOB Food Delivery App simulates a basic yet complete food delivery experience wi
 
 
 
-## 📁 Folder Structure
 
-```
-KOB-Food-Delivery/
-│
-├── main.c                   # Main source code
-├── data/
-│   ├── users.txt            # Registered users data
-│   ├── restaurants.txt      # Restaurant lists by day
-│   ├── menus/               # Menus for each restaurant
-│   └── orders/              # Order history logs
-├── email_script.py         # Script to send email notifications
-└── README.md               # Project documentation (this file)
-```
 
 
 
