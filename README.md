@@ -60,7 +60,6 @@ KOB-Food-Delivery/
 │   ├── menus/               # Menus for each restaurant
 │   └── orders/              # Order history logs
 ├── email_script.py         # Script to send email notifications
-├── docs/                    # Documentation (optional)
 └── README.md               # Project documentation (this file)
 ```
 
